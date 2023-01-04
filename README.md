@@ -1,1 +1,1 @@
-# p5js_template
+# p5js-template
